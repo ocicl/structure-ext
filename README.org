@@ -1,0 +1,10 @@
+* structure-ext
+
+Tiny structure extensions for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/structure-ext.git   |
+| commit  | ac4aa1d  |
+| systems | structure-ext |
+|---------+-------------------------------------------|
+
